@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Milvus -Based Mixed Query Solution
 
 This solution is an example of hybrid query combined with the vector database Milvus.
